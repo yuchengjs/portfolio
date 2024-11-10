@@ -6,8 +6,8 @@ My resume; Personal portfolio website linked in document.
 ## pwaves
 ### Research Intern in the Weber Lab - University of Pennsylvania, Neuroscience Department
 (May  2024 - Present)<br /><br />
-Developing machine learning models using Pytorch to predict p-waves in brain state times series data during REM sleep in mice; Built Convolutional (CNN) and Long Short-Term Memory (LSTM) neural networks from scratch
-Achieved 98% accuracy with an  LSTM model and 95% accuracy (RMSE)  with a CNN model using 60+ features
+Developing machine learning models using Pytorch to predict p-waves in brain state times series data during REM sleep in mice; Built Convolutional (CNN) and Long Short-Term Memory (LSTM) neural networks from scratch; 
+Achieved 98% accuracy with an  LSTM model and 95% accuracy (RMSE)  with a CNN model using 60+ features; 
 Generated augmented data; visualized predicted waveforms, accuracy, & loss using Matplotlib
 
 ## patterns
@@ -27,8 +27,8 @@ Research intern under Dr. A Surjalal Sharma; Developed a Long Short-Term Memory 
 ## snowfall.pdf
 ### CISESS Internship - University of Maryland, ESSIC 
 (June 2022 - Aug 2022) <br /> <br />
-Developed a machine learning-based snowfall detection algorithm using Python for NASA’s Global Precipitation Measurement Mission satellite (GPM); Used inputs from 9 microwave sensors
-Achieved 95% classification accuracy using XGBoost with less than 0.1% false prediction rate; Increased forecast accuracy in Alaska & the Southern Hemisphere from 0% to 94.6%
+Developed a machine learning-based snowfall detection algorithm using Python for NASA’s Global Precipitation Measurement Mission satellite (GPM); Used inputs from 9 microwave sensors; 
+Achieved 95% classification accuracy using XGBoost with less than 0.1% false prediction rate; Increased forecast accuracy in Alaska & the Southern Hemisphere from 0% to 94.6%; 
 Developed XGBoost, Random Forest, & Linear Regression ML models to predict snowfall from 800+ features
 
 ## litterbug.pdf
