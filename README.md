@@ -1,7 +1,7 @@
 # Yucheng's Portfolio
 
 ## resume.pdf
-My resume; Website linked in document. 
+My resume; Personal portfolio website linked in document. 
 
 ## 2048
 
