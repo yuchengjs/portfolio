@@ -1,6 +1,4 @@
-# Portfolio
-Past projects and research:
-
+# Yucheng's Portfolio
 ## ae.pdf 
 ### Research under Dr. A Surjalal Sharma - University of Maryland, Department of Astronomy 
 (July 2022 - Nov 2022)<br />
