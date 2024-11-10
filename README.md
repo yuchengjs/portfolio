@@ -6,7 +6,14 @@ My resume; Personal portfolio website linked in document.
 ## pwaves
 ### Research Intern in the Weber Lab - University of Pennsylvania, Neuroscience Department
 (May  2024 - Present)<br /><br />
-Research Intern in the Weber Lab; Developing machine learning models using Python to predict p-waves in brain state data during REM sleep in mice; Built Convolutional (CNN) and Long Short-Term Memory (LSTM) neural networks using Pytorch to detect peaks in time-series LFP (local field potential) data; Generated noisy data & visualized predicted waveforms
+Developing machine learning models using Pytorch to predict p-waves in brain state times series data during REM sleep in mice; Built Convolutional (CNN) and Long Short-Term Memory (LSTM) neural networks from scratch
+Achieved 98% accuracy with an  LSTM model and 95% accuracy (RMSE)  with a CNN model using 60+ features
+Generated augmented data; visualized predicted waveforms, accuracy, & loss using Matplotlib
+
+## patterns
+### Research under Prof. Charles Yang - University of Pennsylvania, Linguistics Department
+(May  2024 - Oct 2024)<br /><br />
+Research intern under Prof. Charles Yang ; Developed an algorithm using Python to mimic how children exercise pattern recognition using the Abductive Discovery of Productivity (ADP) and the Tolerance Principle (TP); Built a recursive decision tree-based algorithm that dynamically resizes based on user input.
 
 ## 2048
 Designed and programmed an implementation of 2048 using Java Swing with interactive user interface
@@ -20,7 +27,9 @@ Research intern under Dr. A Surjalal Sharma; Developed a Long Short-Term Memory 
 ## snowfall.pdf
 ### CISESS Internship - University of Maryland, ESSIC 
 (June 2022 - Aug 2022) <br /> <br />
-Internship under Dr. Yongzhen Fan of NOAA; developed a machine learning-based snowfall detection algorithm using Python for the GPM Microwave Imager (GMI), NASA’s Global Precipitation Measurement Mission satellite; Developed XGBoost, Random Forest, and Linear Regression machine learning models to predict snowfall using 70+ types of data inputs from GMI & selected for best features & models; Significantly improved weather prediction in the Southern hemisphere and Alaska
+Developed a machine learning-based snowfall detection algorithm using Python for NASA’s Global Precipitation Measurement Mission satellite (GPM); Used inputs from 9 microwave sensors
+Achieved 95% classification accuracy using XGBoost with less than 0.1% false prediction rate; Increased forecast accuracy in Alaska & the Southern Hemisphere from 0% to 94.6%
+Developed XGBoost, Random Forest, & Linear Regression ML models to predict snowfall from 800+ features
 
 ## litterbug.pdf
 ### ASPIRE Internship - Johns Hopkins Applied Physics Laboratory 
