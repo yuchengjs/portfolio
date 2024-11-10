@@ -3,7 +3,13 @@
 ## resume.pdf
 My resume; Personal portfolio website linked in document. 
 
+## pwaves.pdf
+### Research Intern in the Weber Lab - University of Pennsylvania, Neuroscience Department
+(May  2024 - Present)<br /><br />
+Research Intern in the Weber Lab; Developing machine learning models using Python to predict p-waves in brain state data during REM sleep in mice; Built Convolutional (CNN) and Long Short-Term Memory (LSTM) neural networks using Pytorch to detect peaks in time-series LFP (local field potential) data; Generated noisy data & visualized predicted waveforms
+
 ## 2048
+Designed and programmed an implementation of 2048 using Java Swing with interactive user interface
 
 ## ae.pdf 
 ### Research under Dr. A Surjalal Sharma - University of Maryland, Department of Astronomy 
