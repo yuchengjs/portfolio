@@ -22,7 +22,10 @@ Designed and programmed an implementation of 2048 using Java Swing with interact
 ### Research under Dr. A Surjalal Sharma - University of Maryland, Department of Astronomy 
 (July 2022 - Nov 2022)<br />
 <br />
-Research intern under Dr. A Surjalal Sharma; Developed a Long Short-Term Memory (LSTM) recurrent neural network model to predict Geomagnetic Auroral Electrojet Indices using Python; Presented at the 2022 American Geophysical Union Fall Meeting
+Research intern under Dr. A Surjalal Sharma; Research intern under Dr. A Surjalal Sharma; Developed a Long Short-Term Memory (LSTM) recurrent neural network model to predict Geomagnetic Auroral Electrojet Indices using Python; 
+Achieved 97% accuracy (Root Mean Squared Error); 
+Presented at the 2022 American Geophysical Union Fall Meeting to 30+ members
+
 
 ## snowfall.pdf
 ### CISESS Internship - University of Maryland, ESSIC 
