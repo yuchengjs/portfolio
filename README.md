@@ -14,7 +14,7 @@ Internship under Dr. Yongzhen Fan of NOAA; developed a machine learning-based sn
 ## litterbug.pdf
 ### ASPIRE Internship - Johns Hopkins Applied Physics Laboratory 
 (June 2021 - Sept 2021)<br />
-\nTrained a machine learning neural network to identify litter in videos using Tensorflow Lite and Python: Configured the SSD-MobileNet-V2 object detection model on a Raspberry Pi
+Trained a machine learning neural network to identify litter in videos using Tensorflow Lite and Python: Configured the SSD-MobileNet-V2 object detection model on a Raspberry Pi
 Presented at the AIAA Mid-Atlantic Young Professionals, Students, and Educators (YPSE) Conference
 
 
