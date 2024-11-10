@@ -1,4 +1,10 @@
 # Yucheng's Portfolio
+
+## resume.pdf
+My resume; Website linked in document. 
+
+## 2048
+
 ## ae.pdf 
 ### Research under Dr. A Surjalal Sharma - University of Maryland, Department of Astronomy 
 (July 2022 - Nov 2022)<br />
