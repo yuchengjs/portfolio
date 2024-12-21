@@ -20,6 +20,7 @@ Generated augmented data; visualized predicted waveforms, accuracy, & loss using
 Research intern under Prof. Charles Yang ; Developed an algorithm using Python to mimic how children exercise pattern recognition using the Abductive Discovery of Productivity (ADP) and the Tolerance Principle (TP); Built a recursive decision tree-based algorithm that dynamically resizes based on user input.
 
 ## 2048
+### CIS 1200: Programming Languages and Techniques
 Designed and programmed an implementation of 2048 using Java Swing with interactive user interface
 
 ## ae.pdf 
