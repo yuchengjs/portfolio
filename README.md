@@ -3,6 +3,10 @@
 ## resume.pdf
 My resume; Personal portfolio website linked in document. 
 
+## airbnb
+### CIS 5450: Big Data Analytics
+Collaborated in a group to process 200,000+ individual Airbnb data points, developed Lienar Regression, Random Forest, and XGBoost machine learning modelsusing Pytorch and Scikit-learn to predict Airbnb prices based on 10+ features; Visualized Airbnb data using Matplotlib and Seaborn. 
+
 ## pwaves
 ### Research Intern in the Weber Lab - University of Pennsylvania, Neuroscience Department
 (May  2024 - Present)<br /><br />
