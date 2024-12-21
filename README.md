@@ -5,11 +5,12 @@ My resume; Personal portfolio website linked in document.
 
 ## airbnb
 ### CIS 5450: Big Data Analytics
+(Dec 2024)<br /><br />
 Collaborated in a group to process 200,000+ individual Airbnb data points, developed Lienar Regression, Random Forest, and XGBoost machine learning modelsusing Pytorch and Scikit-learn to predict Airbnb prices based on 10+ features; Visualized Airbnb data using Matplotlib and Seaborn; Performed feature engineering, hypothesis testing, and hyperparameter tuning using Python
 
 ## pwaves
 ### Research Intern in the Weber Lab - University of Pennsylvania, Neuroscience Department
-(May  2024 - Present)<br /><br />
+(May 2024 - Present)<br /><br />
 Developing machine learning models using Pytorch to predict p-waves in brain state times series data during REM sleep in mice; Built Convolutional (CNN) and Long Short-Term Memory (LSTM) neural networks from scratch; 
 Achieved 98% accuracy with an  LSTM model and 95% accuracy (RMSE)  with a CNN model using 60+ features; 
 Generated augmented data; visualized predicted waveforms, accuracy, & loss using Matplotlib
@@ -21,6 +22,7 @@ Research intern under Prof. Charles Yang ; Developed an algorithm using Python t
 
 ## 2048
 ### CIS 1200: Programming Languages and Techniques
+(Dec 2023)<br /><br />
 Designed and programmed an implementation of 2048 using Java Swing with interactive user interface
 
 ## ae.pdf 
