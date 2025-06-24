@@ -6,7 +6,7 @@ My resume; Personal portfolio website linked in document.
 ## horses
 ### CIS 5500: Databases
 (May 2025)<br /><br />
-Please email yuchengs@seas.upenn.edu for access to the github repo
+Please email me to see code<br /><br />
 Collaborated on a data-driven horse racing analytics web app using React, Node.js, and PostgreSQL on AWS RDS, processing 4M+ horse records and 50K races. Cleaned and merged 30+ years of historical race data; standardized entity names using Python regex and designed normalized schemas for flexible querying. Developed optimized SQL queries to identify top trainer–jockey pairs, horses outperforming betting odds, and adjusted win rates by field size. Designed a dynamic, filterable DataGrid UI for interactive exploration of horses, races, jockeys, and trainers.
 
 ## airbnb
